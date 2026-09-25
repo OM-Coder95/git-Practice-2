@@ -37,7 +37,9 @@ Branch Related Commands
 function removeStudent(ele) {
     // remove code
 
+    // meine yaha pr ek naya code add kiya hai, chalo dekhate hai ki push karte vakt -u bar bar likhane ki jarurat hai ya nahi...
 
 
-    
+    // swal.fire({})
+
 }
